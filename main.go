@@ -1,3 +1,6 @@
+//Tugas Wawasan Global TIK tentang GIT Fundamental
+//Achmad Rafi Dwiyandar - 103032400089
+
 package main
 
 import (
